@@ -10,6 +10,10 @@ Regression is used to see the form of the relationship between variables through
 
 Simple linear regression is a method used to see the relationship between one independent variable (free) and has a straight line relationship with the dependent variable (bound). An observation variable obtained is very likely to be influenced by other variables, for example a person's height and weight.
 
+### Case Study
+
+Based on this github project [febi1717](https://github.com/febi1717/RegresiLinear), the case study is to predict the amount of corn harvested using fertilizer variable and find out how much influence fertilizer has  on the amount of corn harvest
+
 ## Project Structure
 
 1. src -> all python code
@@ -19,3 +23,4 @@ Simple linear regression is a method used to see the relationship between one in
 ## Thanks To
 
 1. [statmat.net](https://www.statmat.net/regresi-linier-sederhana/)
+2. [febi1717](https://github.com/febi1717/RegresiLinear)
