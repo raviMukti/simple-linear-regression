@@ -14,6 +14,10 @@ Simple linear regression is a method used to see the relationship between one in
 
 Based on this github project [febi1717](https://github.com/febi1717/RegresiLinear), the case study is to predict the amount of corn harvested using fertilizer variable and find out how much influence fertilizer has  on the amount of corn harvest
 
+## Screenshot
+![App Run](https://github.com/raviMukti/simple-linear-regression/blob/master/img/AppRun.png)
+![Figure Plot](https://github.com/raviMukti/simple-linear-regression/blob/master/img/Figure_1.png)
+
 ## Project Structure
 
 1. src -> all python code
